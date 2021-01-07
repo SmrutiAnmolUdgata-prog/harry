@@ -1,0 +1,151 @@
+body{
+  margin:0;
+  }
+.heading{
+
+  background-color: #fff8cd;
+  height: 500px;
+}
+.mid{
+  background-color: #a3ddcb;
+  height:700px;
+}
+.para{
+  margin:0;
+  text-align: center;
+  font-family:Monotype Corsiva;
+  font-size:2rem;
+}
+h1{
+  margin:0;
+  text-align: center;
+  color:#f5a25d;
+  font-family: 'Redressed', cursive;
+  font-size:3rem;
+}
+.harry{
+  border:2px solid ;
+  position: absolute;
+  height: 200px;
+  width:300px;
+  margin-top:30px;
+  margin-left:1000px;
+  border-radius: 50%;
+}
+.dementor{
+  border:2px solid ;
+  position: absolute;
+  height: 200px;
+  width:300px;
+  margin-top:30px;
+  margin-left:150px;
+  border-radius: 50%;
+  ;
+}
+.hogwarts{
+  border:2px solid ;
+  position: absolute;
+  height:200px;
+  width:300px;
+  margin-top:30px;
+  margin-left:575px;
+  border-radius: 50%;
+}
+h2{
+  margin-top:100px;
+  display:inline-block;
+  font-family: 'Redressed', cursive;
+  margin-left:200px;
+  position: absolute;
+  color:red;
+}
+ul{
+  margin-top:200px;
+  display:inline-block;
+  margin-left:200px;
+  position:absolute;
+  line-height: 3rem;
+  font-family:Monotype Corsiva;
+  font-size:150%;
+
+}
+.part1{
+  border:2px solid ;
+  position: absolute;
+  height: 200px;
+  width: 120px;
+  float:right;
+  margin-left: 650px;
+  border-radius: 50%;
+  margin-top:200px;
+
+}
+.part2{
+  border:2px solid ;
+  position: absolute;
+  height: 200px;
+  width: 120px;
+  float:right;
+  margin-left: 800px;
+  border-radius: 50%;
+  margin-top:200px;
+
+}
+.part3{
+  border:2px solid ;
+  position: absolute;
+  height: 200px;
+  width: 120px;
+  float:right;
+  margin-left: 950px;
+  border-radius: 50%;
+  margin-top:200px;
+
+}
+.part4{
+  border:2px solid ;
+  position: absolute;
+  height: 200px;
+  width: 120px;
+  float:right;
+  margin-left: 1100px;
+  border-radius: 50%;
+  margin-top:200px;
+
+}
+.part5{
+  border:2px solid ;
+  position: absolute;
+  height: 200px;
+  width: 120px;
+  float:right;
+  margin-left: 1250px;
+  border-radius: 50%;
+  margin-top:200px;
+
+}
+.part6{
+  border:2px solid ;
+  position: absolute;
+  height: 200px;
+  width: 120px;
+  float:right;
+  margin-left: 1050px;
+  border-radius: 50%;
+  margin-top:400px;
+
+}.part7{
+  border:2px solid ;
+  position: absolute;
+  height: 200px;
+  width: 120px;
+  float:right;
+  margin-left: 900px;
+  border-radius: 50%;
+  margin-top:400px;
+
+}
+hr{
+  margin:0px;
+
+}
